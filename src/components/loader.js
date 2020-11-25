@@ -4,6 +4,7 @@ import PropTypes from 'prop-types';
 import anime from 'animejs';
 import styled from 'styled-components';
 import { IconLoader } from '@components/icons';
+import PacmanLoader from "react-spinners/PacmanLoader";
 
 const StyledLoader = styled.div`
   ${({ theme }) => theme.mixins.flexCenter};
@@ -86,7 +87,12 @@ const Loader = ({ finishLoading }) => {
       <Helmet bodyAttributes={{ class: `hidden` }} />
 
       <div className="logo-wrapper">
-        <IconLoader />
+        <PacmanLoader
+          className="sweet-loading"
+          size={25}
+          color={"#F8E71C"}
+          loading={true}
+        />
       </div>
     </StyledLoader>
   );

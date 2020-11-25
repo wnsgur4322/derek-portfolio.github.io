@@ -1,14 +1,13 @@
 ---
 date: '3'
-title: 'OctoProfile'
+title: 'Data Visualization with UE4'
 cover: './octoprofile.png'
-github: 'https://github.com/bchiang7/octoprofile'
-external: 'https://octoprofile.now.sh'
+github: 'https://ir.library.oregonstate.edu/catalog?f%5Bcreator_sim%5D%5B%5D=Jeong%2C+Junhyeok&locale=en'
+external: 'https://ir.library.oregonstate.edu/catalog?f%5Bcreator_sim%5D%5B%5D=Jeong%2C+Junhyeok&locale=en'
 tech:
-  - Next.js
-  - Chart.js
-  - GitHub API
+  - Unreal Engine 4
+  - C++
 showInProjects: true
 ---
 
-A nicer look at your GitHub profile and repository stats with data visualizations of your top languages and stars. Sort through your top repos by number of stars, forks, and size.
+Unreal Engine has good flexibility, so it takes various data types if a user installed proper ‘Unreal Engine Plug-in’. Created visualization tool which can take csv. files (weather data) and visualizes the data the weather changes in the virtual world.

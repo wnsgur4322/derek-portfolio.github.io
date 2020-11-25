@@ -132,7 +132,7 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['JavaScript (ES6+)', 'HTML & (S)CSS', 'React', 'Vue', 'Node.js', 'WordPress'];
+  const skills = ['Python', 'C & C++', 'TensorFlow', 'PyTorch', 'Unreal Engine 4', 'Flutter', 'JavaScript', 'HTML & (S)CSS', 'React', 'Node.js'];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -141,19 +141,19 @@ const About = () => {
       <div className="inner">
         <StyledText>
           <div>
-            <p>Hello! I'm Brittany, a software engineer based in Boston, MA.</p>
+            <p>Hello! I'm Derek Jeong, a undergraduate student in Computer Science at Oregon State University.</p>
 
             <p>
-              I enjoy creating things that live on the internet, whether that be websites,
-              applications, or anything in between. My goal is to always build products that provide
-              pixel-perfect, performant experiences.
+            My interesting fields are AI, Computer Vision, Web & Mobile Development, and Data Science.
+            I am always ready for learning new technology because I am very passionate about programming and engineering as a whole. 
             </p>
 
             <p>
-              Shortly after graduating from{' '}
-              <a href="https://www.ccis.northeastern.edu">Northeastern University</a>, I joined the
-              engineering team at <a href="https://www.upstatement.com">Upstatement</a> where I work
-              on a wide variety of interesting and meaningful projects on a daily basis.
+              As a senior and Honors College student at{' '}
+              <a href="https://www.oregonstate.edu">Oregon State University</a>, I joined <a href="http://web.engr.oregonstate.edu/~grimmc/">Dr.Cindy Grimm</a>'s
+              Robotics Grasping research team for my Honors College thesis.
+              Currently, I'm working with <a href="https://minsuk.com/">Dr. Misuk Kahng</a> for my senior capstone project
+              <a href="https://github.com/laurajjiang/capstone_ai_education">'Interactive Visualization for AI Education'</a>
             </p>
 
             <p>Here are a few technologies I've been working with recently:</p>

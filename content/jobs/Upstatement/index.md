@@ -1,12 +1,11 @@
 ---
-date: '2018-05-14'
-title: 'Engineer'
-company: 'Upstatement'
-location: 'Boston, MA'
-range: 'May 2018 - Present'
-url: 'https://www.upstatement.com/'
+date: '2019-11-14'
+title: 'Undergraduate Research Assistant'
+company: 'Oregon State University'
+location: 'Corvallis, OR'
+range: 'Nov. 2019 - Present'
+url: 'http://web.engr.oregonstate.edu/~grimmc/students.php'
 ---
 
-- Write modern, performant, maintainable code for a diverse array of client and internal projects
-- Work with a variety of different languages, platforms, frameworks, and content management systems such as JavaScript, TypeScript, Gatsby, React, Craft, WordPress, Prismic, and Netlify
-- Communicate with multi-disciplinary teams of engineers, designers, producers, and clients on a daily basis
+- Implemented computer vision with OpenCV, PyTorch and Mujoco robotics as an undergraduate research assistant in the Dr. Cindy Grimm’s grasping robot research team
+- Implemented and evaluated Deep learning frameworks: YOLOv3, Mask R-CNN

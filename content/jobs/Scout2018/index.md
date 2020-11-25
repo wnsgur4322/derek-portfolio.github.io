@@ -1,12 +1,12 @@
 ---
-date: '2018-04-01'
-title: 'Studio Developer'
-company: 'Scout'
-location: 'Northeastern University'
-range: 'January - April 2018'
-url: 'https://web.northeastern.edu/scout/'
+date: '2018-06-11'
+title: 'Office Assistant'
+company: 'IMG Advertising'
+location: 'Seoul, South Korea'
+range: 'June 2018 - Sep. 2018'
+url: 'http://www.ad-img.com/img.htm'
 ---
 
-- Worked with a team of three designers to build a marketing website and e-commerce platform for [blistabloc](https://blistabloc.com), an ambitious startup originating from Northeastern
-- Helped solidify a brand direction for blistabloc that spans both packaging and web
-- Interfaced with clients on a weekly basis, providing technological expertise
+- Learned company culture through senior employees
+- Assisted data manipulation and documentary translation for customer commission
+
