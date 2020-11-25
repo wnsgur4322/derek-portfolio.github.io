@@ -171,7 +171,7 @@ const Projects = () => {
   const projectsToShow = showMore ? projects : firstSix;
 
   return (
-    <StyledProjectsSection>
+    <StyledProjectsSection style={{display : 'none'}}>
       <h2 ref={revealTitle}>Other Noteworthy Projects</h2>
 
       <Link className="inline-link archive-link" to="/archive" ref={revealArchiveLink}>

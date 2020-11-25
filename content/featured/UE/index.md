@@ -3,7 +3,7 @@ date: '3'
 title: 'Data Visualization with UE4'
 cover: './octoprofile.png'
 github: 'https://ir.library.oregonstate.edu/catalog?f%5Bcreator_sim%5D%5B%5D=Jeong%2C+Junhyeok&locale=en'
-external: 'https://ir.library.oregonstate.edu/catalog?f%5Bcreator_sim%5D%5B%5D=Jeong%2C+Junhyeok&locale=en'
+external: 'https://ir.library.oregonstate.edu/concern/defaults/8049gc10v'
 tech:
   - Unreal Engine 4
   - C++

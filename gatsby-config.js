@@ -6,8 +6,8 @@ module.exports = {
     description:
       'Junhyeok Jeong is a undergraduate student in Computer Science specializing in AI, Computer Vision, Data Science and everything in between.',
     siteUrl: 'https://kimchidude.com', // No trailing slash allowed!
-    image: '/og.png', // Path to your image you placed in the 'static' folder
-    twitterUsername: '@bchiang7',
+    image: '/me.jpg', // Path to your image you placed in the 'static' folder
+    twitterUsername: '',
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
