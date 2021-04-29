@@ -1,5 +1,5 @@
 ---
-date: '1'
+date: '4'
 title: 'Object Detection for Grasping Robot'
 cover: './yolo.png'
 github: 'https://github.com/wnsgur4322/cv_research'

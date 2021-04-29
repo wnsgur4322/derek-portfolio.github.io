@@ -1,5 +1,5 @@
 ---
-date: '1'
+date: '3'
 title: 'Teachable Machine'
 cover: './octoprofile.png'
 github: 'https://github.com/wnsgur4322/teachable-machine-boilerplate'
@@ -12,4 +12,3 @@ showInProjects: true
 ---
 
 Developed web-based tool that makes creating machine learning classification models fast, easy, and accessible to everyone.
-
