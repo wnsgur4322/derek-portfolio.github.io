@@ -1,5 +1,5 @@
 ---
-date: '5'
+date: '6'
 title: 'Interactive Visualization for AI Education'
 cover: './demo.png'
 github: 'https://github.com/laurajjiang/capstone_ai_education'
