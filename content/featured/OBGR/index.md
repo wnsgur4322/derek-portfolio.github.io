@@ -1,6 +1,7 @@
 ---
 date: '4'
-title: 'Object Detection for Grasping Robot'
+title: 'Improve the Grasping Performance by Analyzing Target Objects with Computer Vision and Deep Learning
+Algorithm'
 cover: './yolo.png'
 github: 'https://github.com/wnsgur4322/cv_research'
 external: 'https://github.com/wnsgur4322/cv_research/archive/master.zip'

@@ -3,6 +3,7 @@ date: '6'
 title: 'Interactive Visualization for AI Education'
 cover: './demo.png'
 github: 'https://github.com/laurajjiang/capstone_ai_education'
+external: 'https://interactive-viz-ai.herokuapp.com/'
 tech:
   - Jupyter Notebook
   - Tensorflow & Keras
