@@ -2,9 +2,9 @@ const config = require('./src/config');
 
 module.exports = {
   siteMetadata: {
-    title: "Derek Jeong's portfolio",
+    title: 'Derek Jeong\'s portfolio',
     description:
-      'Junhyeok Jeong is a undergraduate student in Computer Science specializing in AI, Computer Vision, Data Science and everything in between.',
+      'Derek Jeong is a undergraduate student in Computer Science specializing in AI, Computer Vision, Data Science and everything in between.',
     siteUrl: 'https://kimchidude.com', // No trailing slash allowed!
     image: '/me.jpg', // Path to your image you placed in the 'static' folder
     twitterUsername: '',
