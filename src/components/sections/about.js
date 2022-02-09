@@ -132,7 +132,7 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['Python', 'C & C++', 'TensorFlow', 'PyTorch', 'Unreal Engine 4', 'Flutter', 'JavaScript', 'HTML & (S)CSS', 'React', 'Node.js'];
+  const skills = ['Python', 'JavaScript', 'HTML & (S)CSS', 'React', 'Node.js', 'NoSQL', 'AWS'];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -141,19 +141,28 @@ const About = () => {
       <div className="inner">
         <StyledText>
           <div>
-            <p>Hello! I'm Derek Jeong, a undergraduate student in Computer Science at Oregon State University.</p>
-
             <p>
-            My interesting fields are AI, Computer Vision, Web & Mobile Development, and Data Science.
-            I am always ready for learning new technology because I am very passionate about programming and engineering as a whole. 
+              Hello! I'm Derek Jeong, a new grad in Computer Science at Oregon State University.
             </p>
 
             <p>
-              As a senior and Honors College student at{' '}
-              <a href="https://www.oregonstate.edu">Oregon State University</a>, I joined <a href="http://web.engr.oregonstate.edu/~grimmc/">Dr.Cindy Grimm</a>'s
-              Robotics Grasping research team for my Honors College thesis.
-              Currently, I'm working with <a href="https://minsuk.com/">Dr. Misuk Kahng</a> for my senior capstone project
-              <a href="https://github.com/laurajjiang/capstone_ai_education">'Interactive Visualization for AI Education'</a>
+              My interesting fields are Web & Mobile Development, and Data Science. I am always
+              ready for learning new technology because I am very passionate about programming and
+              engineering as a whole.
+            </p>
+
+            <p>
+              - Computer Science graduate with an emphasis in Artificial Intelligence and web
+              development.
+            </p>
+            <p>
+              - Dedicated to implementing computer vision with deep learning for robotics research
+              and improving communications for the project team. Proficient in Python, JavaScript,
+              and NoSQL.{' '}
+            </p>
+            <p>
+              - Proven ability to front-end knowledge, and experience to build interactive and
+              user-friendly website with React.js.
             </p>
 
             <p>Here are a few technologies I've been working with recently:</p>
