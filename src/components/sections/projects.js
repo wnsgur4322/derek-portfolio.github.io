@@ -144,6 +144,7 @@ const Projects = () => {
             frontmatter {
               title
               tech
+              home
               github
               external
             }
@@ -182,7 +183,7 @@ const Projects = () => {
         {projectsToShow &&
           projectsToShow.map(({ node }, i) => {
             const { frontmatter, html } = node;
-            const { github, external, title, tech } = frontmatter;
+            const { github, external, home, title, tech } = frontmatter;
 
             return (
               <CSSTransition
@@ -212,6 +213,11 @@ const Projects = () => {
                           {external && (
                             <a href={external} aria-label="External Link">
                               <Icon name="External" />
+                            </a>
+                          )}
+                          {home && (
+                            <a href={home} aria-label="Homepage Link">
+                              <Icon name="Home" />
                             </a>
                           )}
                         </div>

@@ -132,7 +132,7 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['Python', 'JavaScript', 'HTML & (S)CSS', 'React', 'Node.js', 'NoSQL', 'AWS'];
+  const skills = ['Python', 'JavaScript', 'HTML & (S)CSS', 'React', 'Node.js', 'SQL', 'AWS', 'Go'];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -158,7 +158,7 @@ const About = () => {
             <p>
               - Dedicated to implementing computer vision with deep learning for robotics research
               and improving communications for the project team. Proficient in Python, JavaScript,
-              and NoSQL.{' '}
+              and SQL.{' '}
             </p>
             <p>
               - Proven ability to front-end knowledge, and experience to build interactive and

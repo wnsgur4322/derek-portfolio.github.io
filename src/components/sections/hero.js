@@ -52,8 +52,8 @@ const Hero = () => {
   const three = <h3 className="big-heading">I build things for the AI and Web.</h3>;
   const four = (
     <p>
-      I'm a undergraduate student in Computer Science at the Oregon State University specializing in
-      Computer Vision, AI, Data Sceince, and everything in between.
+      I'm a software Engineer at Ezoic Inc specializing in
+      Web Development, AI, Data Sceince, and everything in between.
     </p>
   );
   const five = (
