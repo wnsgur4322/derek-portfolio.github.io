@@ -99,6 +99,7 @@ const StyledProject = styled.div`
 
     @media (min-width: 768px) {
       margin: 0 0 20px;
+      height: 250px;
     }
 
     @media (max-width: 768px) {
