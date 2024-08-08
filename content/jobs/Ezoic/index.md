@@ -3,7 +3,7 @@ date: '2022-03-15'
 title: 'Software Engineer'
 company: 'Ezoic Inc.'
 location: 'Carlsbad, CA'
-range: 'March. 2022 - Recent'
+range: 'March. 2022 - June. 2024'
 url: 'https://www.ezoic.com/'
 ---
 
