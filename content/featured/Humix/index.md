@@ -1,9 +1,9 @@
 ---
-date: '7'
+date: '8'
 title: 'Humix - A Video Platform For Creators And Digital Publishers'
 cover: './humix.png'
 home: 'https://www.humix.com/'
-external: 'https://www.ezoic.com/humix-network/'
+external: 'https://www.humix.com/'
 tech:
   - HTML & CSS
   - JavaScript
