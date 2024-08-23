@@ -141,29 +141,26 @@ const About = () => {
       <div className="inner">
         <StyledText>
           <div>
-            <p>
-              Hello! I'm Derek Jeong, a new grad in Computer Science at Oregon State University.
-            </p>
+          <p>
+            Hello! I'm Derek Jeong, a Software Engineer with a strong background in full-stack development and artificial intelligence.
+          </p>
 
-            <p>
-              My interesting fields are Web & Mobile Development, and Data Science. I am always
-              ready for learning new technology because I am very passionate about programming and
-              engineering as a whole.
-            </p>
+          <p>
+            My areas of expertise include Web Development and AI. I am always eager to learn new technologies, driven by my passion for programming and engineering as a whole.
+          </p>
 
-            <p>
-              - Computer Science graduate with an emphasis in Artificial Intelligence and web
-              development.
-            </p>
-            <p>
-              - Dedicated to implementing computer vision with deep learning for robotics research
-              and improving communications for the project team. Proficient in Python, JavaScript,
-              and SQL.{' '}
-            </p>
-            <p>
-              - Proven ability to front-end knowledge, and experience to build interactive and
-              user-friendly website with React.js.
-            </p>
+          <p>
+            - Experienced in full-stack development with a focus on JavaScript / TypeScript, React / Vue.js, Go, Python, and AWS.
+          </p>
+          <p>
+            - Proven ability to design and optimize scalable web applications and platforms, with a deep understanding of both frontend and backend technologies.
+          </p>
+          <p>
+            - Extensive experience in AI, including integrating ChatGPT API for advanced features and utilizing AWS SageMaker for machine learning and data-driven solutions.
+          </p>
+          <p>
+            - Dedicated to continuous learning and solving complex problems, delivering impactful solutions through innovative engineering practices.
+          </p>
 
             <p>Here are a few technologies I've been working with recently:</p>
           </div>
