@@ -52,8 +52,9 @@ const Hero = () => {
   const three = <h3 className="big-heading">I build things for the AI and Web.</h3>;
   const four = (
     <p>
-      I'm a software Engineer at Ezoic Inc specializing in
-      Web Development, AI, Data Sceince, and everything in between.
+      I'm a Software Engineer with expertise in full-stack development, specializing in JavaScript / TypeScript, React / Vue.js, Go, and Python. 
+      Throughout my professional career, I have built and optimized scalable web applications and platforms. 
+      I'm passionate about solving complex problems and continuously learning to drive impactful results.
     </p>
   );
   const five = (
