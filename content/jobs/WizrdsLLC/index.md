@@ -7,7 +7,9 @@ range: 'June. 2021 - Jan. 2022'
 url: 'https://www.webwizrds.com/'
 ---
 
-- Managed web development projects with the web development team and optimized all cross-browser and multiplatform responsiveness.
-- Implemented user-friendly interfaces and functionalities for the website development projects with React and
-  node.js.
-- Worked closely with other developers in the team to meet project goals, requirements, and desired functionality
+- Delivered customer-driven projects, gathering requirements and turning them into production-ready web apps.
+- Built React.js components from Figma mockups, streamlining design-to-code workflow.
+- Integrated Node.js + MongoDB APIs, improving response time by 25%.
+- Optimized projects for cross-browser and mobile responsiveness, reducing UI-related bug reports.
+- Collaborated directly with customers and UX/UI designers to implement requested features and ship tailored solutions.
+

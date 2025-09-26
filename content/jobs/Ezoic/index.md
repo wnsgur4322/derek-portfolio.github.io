@@ -7,7 +7,11 @@ range: 'March. 2022 - June. 2024'
 url: 'https://www.ezoic.com/'
 ---
 
-- Engaged in ad monetization, content creation tools, and video suite development at Ezoic, contributing to the enhancement and optimization of these vital components of the platform.
-- Implemented user-friendly interfaces and robust functionalities for website development projects, utilizing Vue.js for frontend and Go for backend, ensuring a cohesive user experience and seamless integration.
-- Pioneered innovative AI and ChatGPT projects, showcasing proficiency in both frontend and backend development to drive forward-thinking solutions and boost user engagement.
-- Provided emergency support with AWS, ensuring seamless operation and rapid resolution of critical issues to maintain high availability and reliability of services.
+- Built and scaled APIs in Go for video uploads, analytics, and monetization, supporting 10K+ content creators and publishers.
+- Designed and launched Humix, a video platform (Vue.js, Go, MySQL, AWS) that cut buffering by 30% and increased ad impressions.
+- Integrated Humix with publishers’ WordPress sites, enabling seamless video embedding and monetization for content creators.
+- Developed microservices with Go, Lambda, SQS, reducing upload latency by 40% and enabling batch scalability.
+- Extended Ezoic’s Chrome extension with Humix-related features, enabling publishers to embed and manage videos directly from their browser.
+- Leveraged SageMaker + ChatGPT APIs to match videos with webpage topics, boosting retention by 20%.
+- Supported DevOps operations (CloudWatch, Opsgenie), ensuring 99.99% uptime.
+
