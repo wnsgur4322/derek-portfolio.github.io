@@ -49,7 +49,7 @@ const Hero = () => {
 
   const one = <h1>Hi, my name is</h1>;
   const two = <h2 className="big-heading">Derek Jeong.</h2>;
-  const three = <h3 className="big-heading">I build things for the AI and Web.</h3>;
+  const three = <h3 className="big-heading">I build things for AI and Web.</h3>;
   const four = (
     <p>
       I'm a Software Engineer with expertise in full-stack development, specializing in JavaScript / TypeScript, React / Vue.js, Go, and Python. 
