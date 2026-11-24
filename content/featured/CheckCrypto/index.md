@@ -2,8 +2,8 @@
 date: '7'
 title: 'Check Cypto -  Scam Checker For Cryptocurrencies'
 cover: './check-crypto.png'
-home: 'https://www.check-crypto.com/'
-external: 'https://www.check-crypto.com/'
+home: 'https://checkcrypto.cc/'
+external: 'https://checkcrypto.cc/'
 tech:
   - HTML & CSS
   - JavaScript
